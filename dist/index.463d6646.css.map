@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","sources":["assets/css/app.css"],"sourcesContent":[".profile {\n  width: 150px;\n  height: 150px;\n  border-radius: 50%;\n  object-fit: cover;\n}\n"],"names":[],"version":3,"file":"index.463d6646.css.map","sourceRoot":"/__parcel_source_root/"}

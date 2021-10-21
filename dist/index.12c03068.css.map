@@ -1,0 +1,1 @@
+{"mappings":"AAAA,SAGA,iBAAA,CADA,YAAA,CAEA,gBAAA,CAHA,WAIA","sources":["assets/css/app.css"],"sourcesContent":[".profile {\n  width: 150px;\n  height: 150px;\n  border-radius: 50%;\n  object-fit: cover;\n}\n"],"names":[],"version":3,"file":"index.12c03068.css.map"}

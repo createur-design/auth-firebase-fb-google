@@ -1,0 +1,22 @@
+{
+  "name": "firebase-login",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "watch": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/createur-design/auth-firebase-fb-google.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/createur-design/auth-firebase-fb-google/issues"
+  },
+  "homepage": "https://github.com/createur-design/auth-firebase-fb-google#readme",
+  "dependencies": {
+    "parcel": "^2.0.0"
+  }
+}
