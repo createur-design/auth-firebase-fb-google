@@ -16,7 +16,8 @@
     "url": "https://github.com/createur-design/auth-firebase-fb-google/issues"
   },
   "homepage": "https://github.com/createur-design/auth-firebase-fb-google#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "parcel": "^2.0.0"
   }
 }

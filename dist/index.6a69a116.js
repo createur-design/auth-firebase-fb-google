@@ -1,3 +1,5 @@
+// import { variable } from "./config.js";
+// console.log(variable);
 // Your web app's Firebase configuration
 const firebaseConfig = {
     apiKey: "AIzaSyDhK3eL-oTKEbEIlKCGhfA_GDP-4Fpevkg",
@@ -11,9 +13,7 @@ const firebaseConfig = {
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
-/**
- *
- */ // Initialize the FirebaseUI Widget using Firebase.
+// Initialize the FirebaseUI Widget using Firebase.
 var ui = new firebaseui.auth.AuthUI(firebase.auth());
 const auth = firebase.auth();
 const btnLoginFB = document.querySelector("#fb");
